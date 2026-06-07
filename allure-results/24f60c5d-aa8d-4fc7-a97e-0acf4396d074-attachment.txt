@@ -1,0 +1,1 @@
+[32mINFO    [0m api_test:test_login_api.py:18 登录成功，进入商品页面

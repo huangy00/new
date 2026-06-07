@@ -1,0 +1,1 @@
+[32mINFO    [0m api_test:test_checkout_ui.py:19 商品已添加到购物车
